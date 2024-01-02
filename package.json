@@ -1,0 +1,28 @@
+{
+  "name": "be-travel-chum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanLee3296/be-travel-chum.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanLee3296/be-travel-chum/issues"
+  },
+  "homepage": "https://github.com/NathanLee3296/be-travel-chum#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}
